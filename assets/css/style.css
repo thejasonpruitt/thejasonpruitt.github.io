@@ -512,6 +512,7 @@ header .right {
     background-size: cover;
 
     -webkit-mask-image: linear-gradient(to left, transparent 2%, black 10%, black 70%);
+    filter: brightness(70%);
 }
 
 /* ------------------------------- */
